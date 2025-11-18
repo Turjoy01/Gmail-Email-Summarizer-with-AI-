@@ -1,0 +1,74 @@
+# Python / Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+
+# Streamlit
+.streamlit/
+streamlit_config.toml
+.streamlit/secrets.toml
+
+# Google OAuth & Secrets (MOST IMPORTANT)
+credentials.json
+token.pickle
+token.json
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# IDE / Editors
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# OS / System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter / IPython
+.ipynb_checkpoints
+
+# Build / Distribution
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Temporary files
+*.bak
+*.swp
+*~
+
+# Hugging Face cache (huge files)
+~/.cache/huggingface/
+transformers_cache/
+
+# Optional: if you add any large models locally
+models/
+*.bin
+*.pt
