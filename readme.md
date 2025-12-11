@@ -82,3 +82,4 @@ gmail-summarizer/
 ├── README.md               # This file
 └── .gitignore
 ```
+<img width="1866" height="930" alt="image" src="https://github.com/user-attachments/assets/57b2fadb-d906-4dd0-a715-2c81fdc91e53" />
